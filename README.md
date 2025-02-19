@@ -14,7 +14,7 @@ This is the **Next.js** front-end for the Library App. It provides a simple UI t
 
 1. Navigate to the frontend folder:
    ```bash
-   cd frontend
+   cd library-app
 Create a .env.local file:
 
 touch .env.local
